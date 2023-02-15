@@ -8,13 +8,13 @@ function App() {
 
   return (
     <div>
-      <CalcCosts></CalcCosts>
-      <br/>
       <ListProducts></ListProducts>
       <br/>
       <SortProducts></SortProducts>
       <br/>
       <SaleProducts></SaleProducts>
+      <br/>
+      <CalcCosts></CalcCosts>
       <br/>
     </div>
   )
